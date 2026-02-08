@@ -939,25 +939,8 @@ Check file count - should be 200,000+ if apps included
 - **Rufus:** https://rufus.ie
 - **Windows 11 ISO:** https://www.microsoft.com/software-download/windows11
 
-### Community Support
-- Microsoft Tech Community Forums
-- TechNet Forums
-- Reddit: r/sysadmin, r/Windows11
-
 ---
 
 ## License
 
 This documentation is provided as-is for educational and professional use. All Microsoft products and tools are subject to their respective licenses and terms of service.
-
----
-
-## Contributing
-
-Improvements and corrections welcome. This is technical documentation meant to be shared with the IT community.
-
----
-
-**Document Version:** 1.0  
-**Last Updated:** February 2026  
-**Maintained by:** IT Community Contributors
