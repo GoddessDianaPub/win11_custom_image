@@ -80,11 +80,10 @@ Deploy to Target Computers
 
 **Working Computer (for ISO creation):**
 - Any Windows 10/11 PC
-- 20GB free disk space
+- 100GB free disk space
 - Administrator access
 
 **Target Computers (deployment):**
-- TPM 2.0
 - UEFI firmware
 - Secure Boot capable
 - Meets Windows 11 hardware requirements
@@ -92,17 +91,14 @@ Deploy to Target Computers
 ### Required Materials
 
 1. **USB Drives:**
-   - USB 1 (16GB+) - Windows installation/deployment media
-   - USB 2 (40GB+) - Temporary storage for captured WIM file
+   - USB 1 (64GB+) - Temporary storage for captured WIM file
+   - USB 2 (64GB+) - Windows installation/deployment media
+   - USB 3 (64GB+) - Windows bootable drive
 
 2. **Software:**
    - Windows 11 Professional ISO
-   - Windows ADK (latest version)
-   - Rufus (latest version)
-
-3. **Licenses:**
-   - Windows 11 Pro licenses for target computers
-   - Application licenses as needed
+   - Windows ADK
+   - Rufus
 
 ### Time Requirements
 
