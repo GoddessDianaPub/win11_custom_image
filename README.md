@@ -91,9 +91,9 @@ Deploy to Target Computers
 ### Required Materials
 
 1. **USB Drives:**
-   - USB 1 (64GB+) - Temporary storage for captured WIM file
-   - USB 2 (64GB+) - Windows installation/deployment media
-   - USB 3 (64GB+) - Windows bootable drive
+   - USB 1 (32GB+) - Temporary storage for captured WIM file
+   - USB 2 (32GB+) - Windows installation/deployment media
+   - USB 3 (32GB+) - Windows bootable drive
 
 2. **Software:**
    - Windows 11 Professional ISO
@@ -600,7 +600,7 @@ Check file exists: `C:\Win11_Custom_ISO.iso`
 
 1. Download Rufus from https://rufus.ie
 2. Run Rufus (portable, no installation needed)
-3. Insert USB drive (16GB minimum, will be erased)
+3. Insert USB drive (32GB minimum, will be erased)
 
 #### 16.2 Rufus Configuration
 
