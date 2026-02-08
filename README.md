@@ -132,7 +132,7 @@ Deploy to Target Computers
 #### 1.3 Initial Setup (OOBE)
 
 **Critical:** Create a **temporary local account** during setup:
-- Offline account: windows 11 have only online account as an option. Open CMD: Press Shift + F10 > Type start ms-cxh:localonly > Press Enter
+- Offline account: windows 11 have only online account as an option. Open CMD: Press Shift + F10 > Type "start ms-cxh:localonly" > Enter
 - Username: Generic (e.g., "Admin", "Setup", "ImageBuild")
 - Password: Temporary password (or leave it empty for no password)
 - Continue with the installation
