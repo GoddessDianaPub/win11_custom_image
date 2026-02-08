@@ -629,14 +629,3 @@ Tested on:
 
 - **Rufus:** https://rufus.ie
 - **WinPE Builder:** Part of Windows ADK
-
-### Community
-
-- **r/sysadmin:** Reddit community
-- **r/Windows11:** Reddit community
-- **Microsoft Tech Community:** https://techcommunity.microsoft.com
-
----
-
-**Document Version:** 1.0  
-**Last Updated:** February 2026
